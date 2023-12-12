@@ -1,0 +1,16 @@
+Name
+Email
+phone
+fax
+siren
+activity
+naf_code
+billing_city
+billing_cuntry
+billing_postalcode
+shipping_city
+shipping_cuntry
+shipping_postalcode
+created_at
+already_called
+company_size
