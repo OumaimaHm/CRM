@@ -1,0 +1,36 @@
+Besoin pour apporter une solution d’amélioration des tris :
+
+
+Possibilité de filtrer selon la relation entre fournisseur et l’entreprise :
+
+Filtre selon le CA réaliser avec le fournisseur ou encore le nombre de commande etc…
+
+Impossible d’identifier les fournisseurs les plus courants
+Nous ne disposons pas de l’historique de commande chez les fournisseurs ainsi nous ne pouvons pas identifier les fournisseurs les plus importants. Il nous faudrait l’accès à l’historique
+
+
+On peut identifier les fournisseurs déjà utilisé
+Dans la table account nous avons un champ relationship qui permet de savoir si l’entreprise a déjà travailler avec le fournisseur
+
+Possibilité création d’un scoring :
+-	Selon le taux de remplissage du client 
+-	Selon probabilité réalisation d’une affaire
+-	Selon historique des affaires avec le client
+-	Selon si on a appelé le client ou non
+
+Création d’un champ contenant la probabilité de réalisation des affaires
+
+Mise en place une carte 
+Permet une optimisation des déplacements pour visiter les fournisseurs
+Regarder selon l’emplacement des clients afin de minimiser les transports
+
+Développement information relatif au fournisseur afin de connaitre la solvabilité des clients et des fournisseurs
+
+
+
+Séparation des clients et des fournisseurs dans des tables différentes avec l’ajout de nouvelle info (ex : nbr de véhicules acheté ou loués, taille de l’entreprise ect …)
+Détail pour les clients et les fournisseurs de leurs différentes branches identifiées avec leur Siren et SIret
+
+
+
+
