@@ -28,7 +28,7 @@ Développement information relatif au fournisseur afin de connaitre la solvabili
 
 
 
-Séparation des clients et des fournisseurs dans des tables différentes avec l’ajout de nouvelle info (ex : nbr de véhicules acheté ou loués, taille de l’entreprise ect …)
+Séparation des clients et des fournisseurs dans des tables différentes avec l’ajout de nouvelle info (ex : nbr de véhicules acheté ou loués, taille de l’entreprise, notion client chaud/client froid, ect …)
 Détail pour les clients et les fournisseurs de leurs différentes branches identifiées avec leur Siren et SIret
 
 
